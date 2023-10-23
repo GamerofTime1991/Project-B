@@ -18,6 +18,5 @@ public class GameManager : MonoBehaviour
     void Restart()
     {
         SceneManager.LoadScene(0);
-        Debug.Log("GAME OVER");
     }
 }
